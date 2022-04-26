@@ -1,5 +1,14 @@
-"AccountNames"
-{
-    "email": "jamesmead",
-    "password": "123"
-}
+[
+  {
+    "email": "jd@gmail.com",
+    "password" : "adminA",
+  },
+  {
+    "email": "ab@gmail.com",
+    "password" : "adminB",
+  },
+  {
+    "email": "cd@gmail.com",
+    "password" : "adminC",
+  }
+]
