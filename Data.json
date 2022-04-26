@@ -1,14 +1,14 @@
 [
   {
     "email": "jd@gmail.com",
-    "password" : "adminA",
+    "password" : "adminA"
   },
   {
     "email": "ab@gmail.com",
-    "password" : "adminB",
+    "password" : "adminB"
   },
   {
     "email": "cd@gmail.com",
-    "password" : "adminC",
+    "password" : "adminC"
   }
 ]
