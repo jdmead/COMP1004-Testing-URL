@@ -1,28 +1,17 @@
 [
   {
-    "Username" : "null",
-    "Application" : "null",
-    "PlayMins" : "null",
-    "Score" : "null",
-    "Level" : "null",
     "email": "jd@gmail.com",
-    "password" : "adminA"
+    "password" : "adminA",
+    "Steam" : ["Joe_Steam", "steam"]
+    "Ubisoft" : ["Joe_Ubi", "ubi"]
+    "Steam" : ["Joe_Origin", "origin"]
+    "Steam" : ["Joe_Acti", "activision"]
   },
   {
-    "Username" : "null",
-    "Application" : "null",
-    "PlayMins" : "null",
-    "Score" : "null",
-    "Level" : "null",
     "email": "ab@gmail.com",
     "password" : "adminB"
   },
   {
-    "Username" : "null",
-    "Application" : "null",
-    "PlayMins" : "null",
-    "Score" : "null",
-    "Level" : "null",
     "email": "cd@gmail.com",
     "password" : "adminC"
   }
