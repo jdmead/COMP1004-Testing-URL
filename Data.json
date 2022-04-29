@@ -2,9 +2,9 @@
   {
     "email": "jd@gmail.com",
     "password" : "adminA",
-    "Steam" : ["Joe_Steam", "steam"]
-    "Ubisoft" : ["Joe_Ubi", "ubi"]
-    "Steam" : ["Joe_Origin", "origin"]
+    "Steam" : ["Joe_Steam", "steam"],
+    "Ubisoft" : ["Joe_Ubi", "ubi"],
+    "Steam" : ["Joe_Origin", "origin"],
     "Steam" : ["Joe_Acti", "activision"]
   },
   {
