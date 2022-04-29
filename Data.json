@@ -3,7 +3,9 @@
     "email": "jd@gmail.com",
     "password" : "adminA",
     "SteamUser" : "Joe_Steam",
-    "SteamPassword" : "Steamy"
+    "SteamPassword" : "Steamy",
+    "UbisoftUser" : "Joe_Ubi",
+    "UbisoftPassword" : "Ubi"
   },
   {
     "email": "ab@gmail.com",
