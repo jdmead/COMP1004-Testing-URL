@@ -2,10 +2,10 @@
   {
     "email": "jd@gmail.com",
     "password" : "adminA",
-    "SteamUser" : "Joe_Steam",
-    "SteamPassword" : "Steamy",
-    "UbisoftUser" : "Joe_Ubi",
-    "UbisoftPassword" : "Ubi"
+    "SteamUser" : "Steam Username is:dave_Steam",
+    "SteamPassword" : "Steam Password is: Steamy123",
+    "UbisoftUser" : "Ubisoft Username is: Dave_Ubi",
+    "UbisoftPassword" : "Ubisoft Passworf is: Ubi"
   },
   {
     "email": "ab@gmail.com",
